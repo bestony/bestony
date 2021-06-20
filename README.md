@@ -2,7 +2,7 @@
 
 I'm HuanCheng Bai(@bestony), a generalist.
 
-- 🔭 I’m currently working on build my own product -> 
+- 🔭 I’m currently working on build my own product
 - 🌱 I’m currently learning iOS development with Swift 5
 - 📫 How to reach me: [bestony@linux.com](mailto:bestony@linux.com)
 
