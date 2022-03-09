@@ -7,7 +7,7 @@ Ultimate Developer
 * 🌍  I'm based in China
 * 🖥️  See my portfolio at [博客](http://www.www.ixiqin.com)
 * ✉️  You can contact me at [bestony@linux.com](mailto:bestony@linux.com)
-* 🚀  I'm currently working on [WPStore.app](https://wpstre.app)
+* 🚀  I'm currently working on [WPStore.app](https://.app)
 * 🧠  I'm learning Machine Learning
 * ⚡  YOLO
 
